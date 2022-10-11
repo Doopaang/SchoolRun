@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>home.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,450},{224,224}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{224,224}}</string>
+				<key>sourceSize</key>
+				<string>{224,224}</string>
+			</dict>
+
+			<key>home_on.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{225,0},{224,224}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{224,224}}</string>
+				<key>sourceSize</key>
+				<string>{224,224}</string>
+			</dict>
+
+			<key>restart.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,675},{224,224}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{224,224}}</string>
+				<key>sourceSize</key>
+				<string>{224,224}</string>
+			</dict>
+
+			<key>restart_on.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{225,225},{224,224}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{224,224}}</string>
+				<key>sourceSize</key>
+				<string>{224,224}</string>
+			</dict>
+
+			<key>songselect.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,225},{224,224}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{224,224}}</string>
+				<key>sourceSize</key>
+				<string>{224,224}</string>
+			</dict>
+
+			<key>songselect_on.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{224,224}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{224,224}}</string>
+				<key>sourceSize</key>
+				<string>{224,224}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{512,1024}</string>
+			<key>textureFileName</key>
+			<string>menu_sprites.png</string>
+			</dict>
+		</dict>
+</plist>
